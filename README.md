@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kleinski
 - 👀 I’m interested in Linux, Python, CheckMK, End2End/Synthetic Monitoring
-- 📫 You reach me via kleinski@gmail.com
+- 📫 You may reach me via kleinski@gmail.com
 <!--- - 💞️ I’m looking to collaborate on ...
  - 🌱 I’m currently learning Mermaid Markdown ;-)
 --->
